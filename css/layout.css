@@ -23,5 +23,7 @@
 }
 
 /* Positioning Classes */
-
+.shadow{
+  display: block
+}
 
